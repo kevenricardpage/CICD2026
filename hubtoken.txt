@@ -1,3 +1,0 @@
-docker login -u kevenricard
-
-dckr_pat_CspSAFQVF0h5qJughRgU95axijI
